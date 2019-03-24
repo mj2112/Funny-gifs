@@ -32,6 +32,7 @@ $(document).ready(function() {
         topics.push(newTopic);
         renderButtons();
         // need to add something to clear search field after submitting
+        $("#gif-input").val("");
         return;
     });
 
