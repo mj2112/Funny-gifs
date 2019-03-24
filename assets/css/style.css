@@ -1,0 +1,36 @@
+body {
+    background: #47AFAF;
+}
+
+.jumbotron {
+    background: #B94629;
+    color: #E3DEC1;
+}
+
+.jumbotron button {
+    color: black;
+}
+
+button {
+    border-radius: 5px;
+    padding: 3px;
+    margin: 2px;
+    font-size: 18px;
+}
+
+.searchField {
+    border-radius: 10px;
+    background: #B94629;
+    color: black;
+    font-size: 16px;
+}
+
+#gif-view {
+    display: inline-block;
+}
+
+#gif-view div {
+    float: left;
+    margin: 5px;
+    padding: 5px;
+}
