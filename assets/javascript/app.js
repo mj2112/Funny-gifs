@@ -1,6 +1,6 @@
 $(document).ready(function() {
     // initial array of button topics to be shown
-    var topics = ["Cat", "Dog", "Hamster", "Rabbit", "Birds", "Lemur", "Squirrel", "Goat", "Pig", "Panda"];
+    var topics = ["Cat", "Dog", "Pets", "South Park", "The Simpsons", "Family Guy", "Memes", "Cartoon", "Accident", "Dance"];
     var offsetNum = 0;
     var lastButton = "";
     // function to dynamically generate buttons from array topics as well as any new searches
